@@ -38,7 +38,7 @@ gemini
 ```
 
 ---
-![Gemini CLI Screenshot](screenshot.png)
+![Gemini CLI Screenshot](gemini_src.png)
 
 ## 🎨 Pick a Color Theme
 
